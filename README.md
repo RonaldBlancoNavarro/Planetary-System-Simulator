@@ -1,9 +1,10 @@
 # Planetary System Simulator-C++
-Project of the Programming I course, National University of Costa Rica.
+Project of the Programming I course, Universidad Nacional de Costa Rica.
 
 The planetary system simulator is a software developed in C++ using the WINBGIM graphical library. Its purpose is to simulate a basic planetary system, allowing the user to specify the number of planets, moons per planet, asteroid belts and a celestial body that can enter and leave the planetary system.
 
 With this information, the program generates a planetary system where the planets revolve around the sun at different speeds, with their respective moons.
+Language: Spanish.
 
 ILLUSTRATIVE IMAGES:
 
